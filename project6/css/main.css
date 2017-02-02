@@ -1,0 +1,21 @@
+.features img{
+	margin-right: 15px;
+	margin-bottom: 8px;
+}
+
+.row-grid{
+    margin-top: 60px;
+}
+
+.center{
+	text-align: center;
+}
+
+.header-size{
+	font-size: 26px;
+}
+
+.header-color{
+	background-color: #000;
+	color: #ff3333;
+}
